@@ -2,7 +2,10 @@ const express = require('express');
 const { validatesong } = require('./middleware/song-validation');
 const app = express();
 const repoContext = require('./repository/repository-wrapper');
+const cors = require('cors');
 
+
+app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended:true }));
 
