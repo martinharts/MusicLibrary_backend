@@ -190,5 +190,29 @@
     "artist": "The Postal Service",
     "genre": "Alternative Indie",
     "releaseDate": "02/18/2003"
+  },
+  {
+    "id": 25,
+    "title": "bulls on parade",
+    "album": "Evil Empire",
+    "artist": "Rage Against the Machine",
+    "genre": "Rock",
+    "releaseDate": "1996"
+  },
+  {
+    "id": 26,
+    "title": "bulls on parade",
+    "album": "Evil Empire",
+    "artist": "Rage Against the Machine",
+    "genre": "Rock",
+    "releaseDate": "1996"
+  },
+  {
+    "id": 27,
+    "title": "Hurricane",
+    "album": "Donda",
+    "artist": "Kanye West",
+    "genre": "Hip Hop/Rap",
+    "releaseDate": "2021"
   }
 ]
